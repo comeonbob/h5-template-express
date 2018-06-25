@@ -4,7 +4,7 @@
  */
 const base = {
   // server port
-  port: 9090,
+  port: 9000,
   // cors config
   corsOptions: {
     origin: [],
